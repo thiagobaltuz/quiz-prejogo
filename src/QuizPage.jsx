@@ -3,8 +3,8 @@ import { useState } from "react";
 const questions = [
   {
     question: "Qual país venceu a Copa do Mundo de 2002?",
-    options: ["Alemanha", " "Brasil", "Argentina", "França"],
-    answer: "Brasil",
+    options: ["Alemanha","Brasil", "Argentina", "França"],
+    answer:"Brasil",
   },
   {
     question: "Quem é o maior artilheiro da história da Champions League?",
